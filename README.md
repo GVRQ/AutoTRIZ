@@ -1,6 +1,9 @@
 
 # AutoTRIZ Agent
 
+**Colab:**
+https://colab.research.google.com/drive/1B8P44IWIsFH7CBgo6Q_4g7tUDtPjMTzf
+
 **TRIZ для задач в AI/мультиагентных системах** — это агент на LangGraph, который пошагово применяет методологию **ТРИЗ** к инженерной проблеме по схеме **T→C→I→S**:  
 **T**ask (формулировка задачи) → **C**ontradiction (выявление противоречия) → **I**nventive Principles (подбор изобретательских приемов) → **S**olution (синтез решения).  
 Агент помогает быстро перейти от «сырого» описания проблемы к структурному решению с пояснениями и ссылкой на используемые приемы.
@@ -99,6 +102,7 @@
 ## Полезные ссылки
 
 - **AutoTRIZ (arXiv)**: https://arxiv.org/abs/2403.13002
+- **Colab**: https://colab.research.google.com/drive/1B8P44IWIsFH7CBgo6Q_4g7tUDtPjMTzf
 
 ---
 
